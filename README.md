@@ -2,7 +2,7 @@ All Credits Goes to,
 [website](https://swizzin.ltd) | [docs](https://docs.swizzin.ltd) | [discord](https://discord.gg/bDFqAUF)
 Original Script can be found here https://github.com/liaralabs/swizzin
 
-This is reatin of Version # 1.7.0 Stable
+This is retain of Version # 1.7.0 Stable
 
 ### What is swizzin?
 Swizzin is a light, modular seedbox solution that can be installed on Debian 8/9/10 or Ubuntu 16.04/18.04. The QuickBox package repo has been ported over for your installing pleasure, including the panel -- if you so choose!
